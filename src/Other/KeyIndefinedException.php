@@ -1,5 +1,5 @@
 <?php
-namespace KZ\Exceptions;
+namespace KZ\Other;
 
 use Exception;
 
